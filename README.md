@@ -1,2 +1,0 @@
-# Airero.github.io
-blog
